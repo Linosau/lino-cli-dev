@@ -1,6 +1,6 @@
 {
   "name": "@lino-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lino-cli-dev core",
   "author": "Linosau <liuf@liuf.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"run test from core\""
   },
   "dependencies": {
-    "@lino-cli-dev/utils": "^1.0.2"
+    "@lino-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "d96a0d5a6614ab595aad185e185115e514a5120f"
 }
