@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "lino-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@lino-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "d96a0d5a6614ab595aad185e185115e514a5120f"
 }
