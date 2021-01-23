@@ -1,6 +1,6 @@
 {
   "name": "@lino-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lino-cli-dev utils",
   "author": "Linosau <liuf@liuf.com>",
   "homepage": "",
@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"run test from utils\""
-  },
-  "dependencies": {
   }
 }
