@@ -1,6 +1,6 @@
 {
   "name": "@lino-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "lino-cli-dev core",
   "author": "Linosau <liuf@liuf.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"run test from core\""
   },
   "dependencies": {
-    "@lino-cli-dev/utils": "^1.0.3"
+    "@lino-cli-dev/utils": "^1.0.4"
   },
   "publishConfig": {
     "access": "public"
