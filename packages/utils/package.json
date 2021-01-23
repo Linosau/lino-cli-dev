@@ -1,6 +1,6 @@
 {
   "name": "@lino-cli-dev/utils",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "lino-cli-dev utils",
   "author": "Linosau <liuf@liuf.com>",
   "homepage": "",
@@ -16,5 +16,8 @@
   "scripts": {
     "test": "echo \"run test from utils\""
   },
-  "gitHead": "6735ce0d82181f20f844831681bb68278ebfeda0"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "e5bc2ab8249668dd9ce48e1f3a65cdc9ba0d1519"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@lino-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "lino-cli-dev core",
   "author": "Linosau <liuf@liuf.com>",
   "homepage": "",
@@ -22,5 +22,8 @@
   "dependencies": {
     "@lino-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "6735ce0d82181f20f844831681bb68278ebfeda0"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "e5bc2ab8249668dd9ce48e1f3a65cdc9ba0d1519"
 }
